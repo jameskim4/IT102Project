@@ -1,0 +1,17 @@
+h1 {
+  color: green;
+}
+
+h2 {
+  color: purple;
+}
+
+p {
+  background-color: lightgray;
+  color: black;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
